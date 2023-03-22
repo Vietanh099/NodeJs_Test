@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm A",
+      "price": "1999"
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "price": "3000"
+    },
+    {
+      "name": "Sản phẩm C",
+      "price": "1999",
+      "id": 3
+    }
+  ]
+}
